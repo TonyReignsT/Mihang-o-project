@@ -1,0 +1,12 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Custom CSS for the background image */
+.hero-banner {
+    background-image: url('/images/banner.png.jpg'); /* Replace 'your-image-url.jpg' with the actual image URL */
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
